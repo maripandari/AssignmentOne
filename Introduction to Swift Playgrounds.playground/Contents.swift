@@ -19,4 +19,11 @@ var mySecondVariable = " and look I added 2 strings together"
 
 var myThirdVariable = myFirstVariable + mySecondVariable
 
-print(myThirdVariable)
+//print(myThirdVariable)
+
+var myFourthVariable = "Hello "
+var myFifthVariable = "My Name is "
+var mySixthVariable = "Marijoy"
+var mySeventhVariable = myFourthVariable + myFifthVariable + mySixthVariable
+
+print(mySeventhVariable)
