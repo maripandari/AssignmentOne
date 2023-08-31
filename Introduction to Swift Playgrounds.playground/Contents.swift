@@ -26,4 +26,19 @@ var myFifthVariable = "My Name is "
 var mySixthVariable = "Marijoy"
 var mySeventhVariable = myFourthVariable + myFifthVariable + mySixthVariable
 
-print(mySeventhVariable)
+//print(mySeventhVariable)
+
+//Assignment #3 Introduction to True and False
+
+var appState = false
+print(appState)
+
+//Part 4
+//Create 2 new variable of type int
+
+var numberOne = 5
+var numberTwo = 7
+
+//We are going to create a statement tht compares the two variables and assign that statement to a third variable
+
+var comparison = numberOne > numberTwo
