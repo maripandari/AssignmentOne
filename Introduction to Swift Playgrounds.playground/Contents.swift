@@ -45,4 +45,10 @@ var comparison = numberOne > numberTwo
 
 //Part 7 On your Own Part 1:
 
+var numberThree = "Apple"
+var numberFour = "Red"
+var numberFive = numberThree == numberFour
+
+print(numberFive)
+
 //Part 8 On Your Own Part 2:
